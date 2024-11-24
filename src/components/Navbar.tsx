@@ -9,6 +9,27 @@ const Navbar = () => {
                 <Link className="navbar__link relative" href="#">
                 Home
                 </Link>
+                <Link className="navbar__link relative" href="#">
+                CANTEGORIES
+                </Link>
+                <Link className="navbar__link relative" href="#">
+                MEN'S
+                </Link>
+                <Link className="navbar__link relative" href="#">
+                WOMEN'S
+                </Link>
+                <Link className="navbar__link relative" href="#">
+                JEWELLERY
+                </Link>
+                <Link className="navbar__link relative" href="#">
+                PERFUME
+                </Link>
+                <Link className="navbar__link relative" href="#">
+                BLOG
+                </Link>
+                <Link className="navbar__link relative" href="#">
+                HOT OFFERS
+                </Link>
             </div>
         </div>      
     </div>
